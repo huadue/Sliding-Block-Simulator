@@ -1,0 +1,9 @@
+C:\Users\戴子叶\Desktop\工作簿\软件设计实践\个人项目\主体\v_0.1\obj\Debug\v_0.1.csprojAssemblyReference.cache
+C:\Users\戴子叶\Desktop\工作簿\软件设计实践\个人项目\主体\v_0.1\obj\Debug\v_0._1.Form1.resources
+C:\Users\戴子叶\Desktop\工作簿\软件设计实践\个人项目\主体\v_0.1\obj\Debug\v_0._1.Properties.Resources.resources
+C:\Users\戴子叶\Desktop\工作簿\软件设计实践\个人项目\主体\v_0.1\obj\Debug\v_0.1.csproj.GenerateResource.cache
+C:\Users\戴子叶\Desktop\工作簿\软件设计实践\个人项目\主体\v_0.1\bin\Debug\v_0.1.exe.config
+C:\Users\戴子叶\Desktop\工作簿\软件设计实践\个人项目\主体\v_0.1\bin\Debug\v_0.1.exe
+C:\Users\戴子叶\Desktop\工作簿\软件设计实践\个人项目\主体\v_0.1\bin\Debug\v_0.1.pdb
+C:\Users\戴子叶\Desktop\工作簿\软件设计实践\个人项目\主体\v_0.1\obj\Debug\v_0.1.exe
+C:\Users\戴子叶\Desktop\工作簿\软件设计实践\个人项目\主体\v_0.1\obj\Debug\v_0.1.pdb
